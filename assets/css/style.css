@@ -2,11 +2,13 @@ body {
     font-size: 48px;
 }
 
+#background { 
+    background-color:lavender;
+}
 #clock {
     background-color: navy;
     color: white;
     text-align: center;
     font: outline;
     font-weight: 700;
-
 }
