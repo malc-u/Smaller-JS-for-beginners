@@ -9,6 +9,12 @@ body {
     background-color: navy;
     color: white;
     text-align: center;
-    font: outline;
+    font-weight: 700;
+}
+
+#clocktwo {
+    background-color: rgb(3, 3, 15);
+    color: slategray;
+    text-align: center;
     font-weight: 700;
 }
